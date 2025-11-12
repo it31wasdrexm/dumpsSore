@@ -89,5 +89,5 @@ Author
 
 it31wasdrexm
 
-Developed from scratch by a passionate web developer 💻
+Developed from scratch by a passionate web developer 
 Stack: PHP | MySQL | HTML | CSS | JS
